@@ -1,0 +1,6 @@
+author;author_type;url;location;deal_type;accommodation_type;floor;floors_count;rooms_count;total_meters;price;year_of_construction;object_type;house_material_type;heating_type;finish_type;living_meters;kitchen_meters;phone;district;street;house_number;underground;residential_complex
+ВИКТОРИЯ;real_estate_agent;https://kirov.cian.ru/sale/flat/309034632/;Апрелевка;sale;flat;1;2;1;26.1;2130000;2012;-1;-1;-1;-1;17 м²;4 м²;+79823917920;Первомайский; 60 лет Комсомола;16;;
+Этажи Новосибирск;real_estate_agent;https://novosibirsk.cian.ru/sale/flat/307327110/;Апрелевка;sale;flat;14;18;1;19.1;2100000;2011;-1;-1;-1;-1;-1;-1;+79133719819;Первомайский; Одоевского;1/10;Речной вокзал;
+Гармония;developer;https://stavropol.cian.ru/sale/flat/304810367/;Апрелевка;sale;flat;4;5;1;16.4;2106000;2024;-1;-1;-1;Без отделки;-1;-1;+78652317055;Гармония жилрайон; Александра Грибоедова;3/5;;Гармония
+ВМУ-2;developer;https://voronezh.cian.ru/sale/flat/306667965/;Апрелевка;sale;flat;12;18;1;21.1;2226050;2026;-1;Панельный, монолитно-кирпичный, монолитный, блочный, кирпичный;-1;Предчистовая;14,5 м²;-1;+74733002150;Железнодорожный; Федора Тютчева;105;;Микрорайон Боровое
+ЛУГ;developer;https://pskov.cian.ru/sale/flat/294306643/;Апрелевка;sale;flat;1;10;1;26.17;2224450;2025;-1;-1;-1;Без отделки;11,3 м²;6,1 м²;+78112579197;Псков; Юности;32;;SMART-квартал
