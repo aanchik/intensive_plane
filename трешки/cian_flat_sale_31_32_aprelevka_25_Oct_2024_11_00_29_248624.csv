@@ -1,0 +1,4 @@
+author;author_type;url;location;deal_type;accommodation_type;floor;floors_count;rooms_count;total_meters;price;year_of_construction;object_type;house_material_type;heating_type;finish_type;living_meters;kitchen_meters;phone;district;street;house_number;underground;residential_complex
+Железно Эксперт;real_estate_agent;https://kirov.cian.ru/sale/flat/305657283/;Апрелевка;sale;flat;2;5;3;78.8;9000000;2019;-1;-1;-1;-1;-1;20 м²;+79127106293;Ленинский; Капитана Дорофеева;5;;ZNAK
+Константин Кузнецов;realtor;https://spb.cian.ru/sale/flat/304904546/;Апрелевка;sale;flat;5;5;3;54.1;9200000;1959;-1;-1;-1;-1;39,5 м²;6,3 м²;+79819634989;Московский; Ленсовета;31;Московская;
+АН Петро-риэлт;real_estate_agent;https://spb.cian.ru/sale/flat/302846563/;Апрелевка;sale;flat;2;4;3;94.2;17450000;1875;-1;-1;-1;-1;56,8 м²;14,3 м²;+79818114661;Центральный;переулок Джамбула;7;Звенигородская;
