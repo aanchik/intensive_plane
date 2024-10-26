@@ -1,0 +1,4 @@
+author;author_type;url;location;deal_type;accommodation_type;floor;floors_count;rooms_count;total_meters;price;year_of_construction;object_type;house_material_type;heating_type;finish_type;living_meters;kitchen_meters;phone;district;street;house_number;underground;residential_complex
+Школа Недвижимости;real_estate_agent;https://spb.cian.ru/sale/flat/306914435/;Зарайск;sale;flat;5;6;3;76.5;45980000;2024;-1;-1;-1;-1;30,5 м²;27 м²;+79681894845;Петроградский; Блохина;6/3;Спортивная;
+RND;real_estate_agent;https://www.cian.ru/sale/flat/304510329/;Зарайск;sale;flat;4;7;3;142.2;49900000;1999;-1;-1;-1;-1;81 м²;12,2 м²;+79670309706;Таганский;2-й Сыромятнический переулок;10;Курская;
+TimeProperty;real_estate_agent;https://www.cian.ru/sale/flat/274247449/;Зарайск;sale;flat;40;60;4;175.2;243000000;2011;-1;-1;-1;-1;-1;-1;+79623620296;Пресненский;набережная Пресненская;6с2;Деловой центр;Imperia Tower

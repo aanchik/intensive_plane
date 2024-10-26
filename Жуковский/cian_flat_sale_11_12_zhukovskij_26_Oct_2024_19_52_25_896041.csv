@@ -1,0 +1,4 @@
+author;author_type;url;location;deal_type;accommodation_type;floor;floors_count;rooms_count;total_meters;price;year_of_construction;object_type;house_material_type;heating_type;finish_type;living_meters;kitchen_meters;phone;district;street;house_number;underground;residential_complex
+ИП Шишкина М. Е.;real_estate_agent;https://zhukovsky.cian.ru/sale/flat/308689872/;Жуковский;sale;flat;4;5;3;56.0;7999999;-1;-1;-1;-1;-1;39 м²;6 м²;+79067876400;; Гарнаева;3;Отдых;
+Наталья Тусаева;realtor;https://zhukovsky.cian.ru/sale/flat/304459181/;Жуковский;sale;flat;3;5;3;56.0;7900000;1964;-1;-1;-1;-1;41 м²;6 м²;+79857518035;; Дугина;25;Ильинская;
+Кредит-Центр;real_estate_agent;https://zhukovsky.cian.ru/sale/flat/301658692/;Жуковский;sale;flat;5;5;3;79.7;11500000;1958;-1;-1;-1;-1;50,7 м²;9,5 м²;+79855121058;; Фрунзе;12;Отдых;
