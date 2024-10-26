@@ -1,0 +1,4 @@
+author;author_type;url;location;deal_type;accommodation_type;floor;floors_count;rooms_count;total_meters;price;year_of_construction;object_type;house_material_type;heating_type;finish_type;living_meters;kitchen_meters;phone;district;street;house_number;underground;residential_complex
+Наталья Твердохлебова;realtor;https://dolgoprudny.cian.ru/sale/flat/303712456/;Долгопрудный;sale;flat;1;5;2;43.3;7500000;1967;-1;-1;-1;-1;30 м²;6 м²;+79623628609;;Якорная ;3;Водники;
+Галант;real_estate_agent;https://dolgoprudny.cian.ru/sale/flat/299607589/;Долгопрудный;sale;flat;4;5;1;31.4;6100000;1967;-1;-1;-1;-1;18 м²;5,7 м²;+79850427471;;Нагорная ;10;Долгопрудная;
+WHITE BROKER;real_estate_agent;https://dolgoprudny.cian.ru/sale/flat/308500596/;Долгопрудный;sale;flat;11;13;3;78.8;25300000;-1;-1;-1;-1;-1;47 м²;8 м²;+79104253858;;Набережная ;23;Водники;
