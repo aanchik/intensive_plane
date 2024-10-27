@@ -1,0 +1,4 @@
+author;author_type;url;location;deal_type;accommodation_type;floor;floors_count;rooms_count;total_meters;price;year_of_construction;object_type;house_material_type;heating_type;finish_type;living_meters;kitchen_meters;phone;district;street;house_number;underground;residential_complex
+NIKA ESTATE;real_estate_agent;https://www.cian.ru/sale/flat/306945306/;Ивантеевка;sale;flat;19;24;4;108.0;77000000;2020;-1;-1;-1;-1;62 м²;15 м²;+79166583869;Хорошевский;Хорошевское шоссе;25С3;Полежаевская;Династия
+PANDA ESTATE;real_estate_agent;https://www.cian.ru/sale/flat/303149151/;Ивантеевка;sale;flat;9;10;2;90.0;79990000;-1;-1;-1;-1;-1;45 м²;20 м²;+79099984164;Хамовники;Ружейный переулок;3;Смоленская;Смоленская Застава
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/306361193/;Ивантеевка;sale;flat;7;27;2;73.0;31500000;2024;-1;-1;-1;-1;-1;10 м²;+79660638538;Хорошевский; Зорге;9к2;Полежаевская;Рихард
